@@ -13,9 +13,8 @@ I'm a front-end developer in the making
 ## Interests
 🎹 Music Production <br/>
 📷 Portrait Photography <br/>
-⚔️ World of Warcraft <br/>
 ☕️ Espresso <br/>
-🧘🏼‍♀️ Yoga
+🧘🏼‍♀️ Yoga (kind of...)
 
 ## Connect with Me
 - [Portfolio](https://www.benettviszokai.com) <br/>
