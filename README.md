@@ -1,16 +1,25 @@
-### Hello there 👋
+# Hello there 👋🏻, I'm Benett 
+I'm a front-end developer in the making
 
-<!--
-**benettviszokai/benettviszokai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Project <br/>
+> 🖥️ [Portfolio](https://www.benettviszokai.com) - I'm currently building my portfolio with React.
 
-Here are some ideas to get you started:
+## My Values
+💻 Thoughtful & Inclusive Development <br/>
+🤝 Authentic Expression <br/>
+💡 Learning & Curiosity <br/>
+🙌 Teamwork & Communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+🎹 Music Production <br/>
+📷 Portrait Photography <br/>
+⚔️ World of Warcraft <br/>
+☕️ Espresso <br/>
+🧘🏼‍♀️ Yoga
+
+## Connect with Me
+- [Portfolio](https://www.benettviszokai.com) <br/>
+- [Linkedin](https://www.linkedin.com/) <br/>
+- [Instagram](https://www.instagram.com/) <br/>
+- [Codecademy](https://www.codecademy.com/profiles/benettviszokai) <br/>
+- [Codewars](https://www.codewars.com/users/benettviszokai) <br/>
