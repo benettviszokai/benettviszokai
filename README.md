@@ -20,5 +20,5 @@ I'm a front-end developer in the making
 - [Portfolio](https://www.benettviszokai.com) <br/>
 - [Linkedin](https://www.linkedin.com/) <br/>
 - [Instagram](https://www.instagram.com/) <br/>
-- [Frontend mentor](https://www.frontendmentor.io/profile/benettviszokai) <br/>
+- [Frontend Mentor](https://www.frontendmentor.io/profile/benettviszokai) <br/>
 - [Codewars](https://www.codewars.com/users/benettviszokai) <br/>
